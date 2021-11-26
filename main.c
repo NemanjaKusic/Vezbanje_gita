@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-int a = 6;
-int b = 6;
+int a = 9;
+int b = 9;
 int c;
 if(a > b)
 c = a - b;
